@@ -45,10 +45,10 @@
 - [Codewars profile](https://www.codewars.com/users/InSleepMode)  
   - **Rating:** 6 kyu  
   - **Total Completed Kata:** 50+
-  - 
+  
 ---
 ## Codewars
 -Some projects:
-  -[**DayOfWeek**] (https://github.com/amcp-pit/op24-task4-dayofweek-InSleepMode)
-  -[**Calendar**] (https://github.com/amcp-pit/op24-task5-calendar-InSleepMode)
-  -[**Converter**] (https://github.com/amcp-pit/op24-task3-converter-InSleepMode)
+  - **DayOfWeek** (https://github.com/amcp-pit/op24-task4-dayofweek-InSleepMode)
+  - **Calendar** (https://github.com/amcp-pit/op24-task5-calendar-InSleepMode)
+  - **Converter** (https://github.com/amcp-pit/op24-task3-converter-InSleepMode)
