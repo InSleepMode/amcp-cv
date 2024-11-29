@@ -47,7 +47,7 @@
   - **Total Completed Kata:** 50+
   
 ---
-## Codewars
+## University ^-^
 -Some projects:
   - **DayOfWeek** (https://github.com/amcp-pit/op24-task4-dayofweek-InSleepMode)
   - **Calendar** (https://github.com/amcp-pit/op24-task5-calendar-InSleepMode)
