@@ -23,8 +23,7 @@
   - Learning foreign languages  
   - 3D modeling  
 - **Strong sides of me:**
-  - Can spend a full night trying to complete tasks.  
-  - Always do my best at work.  
+  - Always do my best.  
 
 ---
 
@@ -43,11 +42,11 @@
 
 ## Codewars
 - [Codewars profile](https://www.codewars.com/users/InSleepMode)  
-  - **Rating:** 6 kyu  
-  - **Total Completed Kata:** 50+
+  - **Rating:** 4 kyu  
+  - **Total Completed Kata:** 80+
   
 ---
-## University ^-^
+## University projects
 -Some projects:
   - **DayOfWeek** (https://github.com/amcp-pit/op24-task4-dayofweek-InSleepMode)
   - **Calendar** (https://github.com/amcp-pit/op24-task5-calendar-InSleepMode)
