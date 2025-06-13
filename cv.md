@@ -46,15 +46,15 @@
   
 ---
 ## Some of my projects
--Some projects(2024):
+- *Some projects(2024)*:
   - **Calendar** (https://github.com/amcp-pit/op24-task5-calendar-InSleepMode)
   - **Converter** (https://github.com/amcp-pit/op24-task3-converter-InSleepMode)
   - **MatrixCalculator** (https://github.com/amcp-pit/op24-task6-matrixcalc-InSleepMode)
   - **Text2Table** (https://github.com/InSleepMode/text2table)
   - **Base32 code/decode** (https://github.com/amcp-pit/op24-task9-crockford-InSleepMode)
   - **HexViewer** (https://github.com/amcp-pit/op24-task8-hexview-InSleepMode)
----
--Recent ones(2025)
+
+- *Recent ones(2025)*:
   - **Class DateTime** (https://github.com/amcp-pit/task1-datetime-InSleepMode)
   - **Simple StockExchange** (https://github.com/amcp-pit/task2-stock-exchange-InSleepMode)
   - **TuringMachine** (https://github.com/amcp-pit/task3-busy-beaver-InSleepMode)
