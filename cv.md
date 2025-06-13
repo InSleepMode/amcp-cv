@@ -52,8 +52,6 @@
   - **MatrixCalculator** (https://github.com/amcp-pit/op24-task6-matrixcalc-InSleepMode)
   - **Text2Table** (https://github.com/InSleepMode/text2table)
   - **Base32 code/decode** (https://github.com/amcp-pit/op24-task9-crockford-InSleepMode)
-  - **HexViewer** (https://github.com/amcp-pit/op24-task8-hexview-InSleepMode)
-
 - *Recent ones(2025)*:
   - **Class DateTime** (https://github.com/amcp-pit/task1-datetime-InSleepMode)
   - **Simple StockExchange** (https://github.com/amcp-pit/task2-stock-exchange-InSleepMode)
